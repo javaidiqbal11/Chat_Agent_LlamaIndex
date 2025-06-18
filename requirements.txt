@@ -1,0 +1,11 @@
+llama-index 
+llama-index-llms-openai 
+llama-index-readers-file 
+llama-index-embeddings-openai 
+openai
+python-dotenv 
+gradio 
+chromadb
+llama_index.vector_stores
+llama-index-vector-stores-chroma
+docx2txt
