@@ -1,4 +1,4 @@
-# 🧠 Chat Agent with LlamaIndex + LangChain + ChromaDB
+# 🧠 Chat Agent with LlamaIndex
 
 A powerful **AI-powered conversational agent** using [LlamaIndex](https://github.com/jerryjliu/llama_index), [LangChain](https://github.com/langchain-ai/langchain), [ChromaDB](https://www.trychroma.com/), and [Gradio](https://gradio.app/) for document-based QA, contextual chat, and knowledge retrieval.
 
